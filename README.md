@@ -12,6 +12,11 @@
 
     $ parcel index.html
 
+## Typescript File
+
+- interface definition for the others to implement
+- class definition
+
 ## Resource
 
 - [NPM Registry](https://www.npmjs.com/)
