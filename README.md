@@ -1,5 +1,12 @@
 # Web Map
 
+## Focus
+
+Apply interface
+
+- interface definition for the others to implement
+- class definition
+
 ## Setup
 
     // tool to run typescript in browser
@@ -11,11 +18,6 @@
 ## Run
 
     $ parcel index.html
-
-## Typescript File
-
-- interface definition for the others to implement
-- class definition
 
 ## Resource
 
